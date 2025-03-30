@@ -1,10 +1,10 @@
 # Delta-Modulation
 ### Aim
-    To implement and analyze Delta-Modulation (DM) using Python's NumPy and Matplotlib libraries.
+To implement and analyze Delta-Modulation (DM) using Python's NumPy and Matplotlib libraries.
 
 ### Tools required
-    Software: Python with NumPy and Matplotlib libraries
-    Hardware: Personal Computer
+Software: Python with NumPy and Matplotlib libraries
+Hardware: Personal Computer
 
 ### Program
 ```python
@@ -81,4 +81,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/cda9ca08-c288-49d7-aa0f-a6d3e8d303e4)
 
 ### Results
-    Delta-Modulation signal will be displayed in separate plots. Thus AM is implemented using numPy and Matplotlib.
+Delta-Modulation signal will be displayed in separate plots. Thus AM is implemented using numPy and Matplotlib.
